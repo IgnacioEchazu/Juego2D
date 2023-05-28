@@ -8,3 +8,5 @@
 
 [node name="Cuerpo" type="Node2D" parent="."]
 script = ExtResource("1_yidc7")
+
+[node name="Cabeza" type="Node2D" parent="."]
